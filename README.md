@@ -337,23 +337,7 @@ Exemple de NACL :
 
 ---
 
-## Structure du dépôt
 
-```text
-.
-├── README.md
-└── docs/
-    └── images/          # chaque schéma existe en .png (affichage) et .svg (éditable)
-        ├── 01-stateful-vs-stateless
-        ├── 02-stateless-architecture
-        ├── 03-stateful-architecture
-        ├── 04-rds-multi-az
-        ├── 05-dynamodb-dax
-        ├── 06-nacl-vs-security-group
-        ├── 07-relationships
-        ├── 08-full-stateful-architecture
-        └── 09-sql-vs-nosql
-```
 
 ## Ressources
 
